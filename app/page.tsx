@@ -150,7 +150,7 @@ export default function Portfolio() {
                   </a>
                 </Button>
                 <Button variant="outline" size="lg" className="flex items-center gap-3 bg-transparent" asChild>
-                  <a href="linkedin.com/in/emmanuel-peralta-805408322" className="hover:text-primary transition-colors">
+                  <a href="https://www.linkedin.com/in/emmanuel-peralta-805408322" className="hover:text-primary transition-colors">
                     <Linkedin className="w-5 h-5" />
                     LinkedIn
                   </a>
@@ -310,9 +310,9 @@ export default function Portfolio() {
                 <Mail className="w-5 h-5" />
                 Send Email
               </a>
-            </Button>
+            </Button>s
             <Button variant="outline" size="lg" className="text-lg px-10 py-6 bg-transparent" asChild>
-              <a href="linkedin.com/in/emmanuel-peralta-805408322" className="flex items-center gap-3">
+              <a href="https://www.linkedin.com/in/emmanuel-peralta-805408322" className="flex items-center gap-3">
                 <Linkedin className="w-5 h-5" />
                 Connect on LinkedIn
               </a>
