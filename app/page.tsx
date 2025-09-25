@@ -144,19 +144,19 @@ export default function Portfolio() {
 
               <div className="flex flex-wrap gap-4 pt-6">
                 <Button variant="outline" size="lg" className="flex items-center gap-3 bg-transparent" asChild>
-                  <a href="#" className="hover:text-primary transition-colors">
+                  <a href="https://github.com/Emmanueliyin013" className="hover:text-primary transition-colors">
                     <Github className="w-5 h-5" />
                     GitHub
                   </a>
                 </Button>
                 <Button variant="outline" size="lg" className="flex items-center gap-3 bg-transparent" asChild>
-                  <a href="#" className="hover:text-primary transition-colors">
+                  <a href="linkedin.com/in/emmanuel-peralta-805408322" className="hover:text-primary transition-colors">
                     <Linkedin className="w-5 h-5" />
                     LinkedIn
                   </a>
                 </Button>
                 <Button variant="outline" size="lg" className="flex items-center gap-3 bg-transparent" asChild>
-                  <a href="#" className="hover:text-primary transition-colors">
+                  <a href="https://www.instagram.com/emm_013xx/?next=%2F" className="hover:text-primary transition-colors">
                     <Instagram className="w-5 h-5" />
                     Instagram
                   </a>
@@ -306,13 +306,13 @@ export default function Portfolio() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
             <Button size="lg" className="text-lg px-10 py-6 shadow-lg hover:shadow-xl transition-shadow" asChild>
-              <a href="mailto:emmanuel@example.com" className="flex items-center gap-3">
+              <a href="mailto:emmanueliyin013@gmail.com" className="flex items-center gap-3">
                 <Mail className="w-5 h-5" />
                 Send Email
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-10 py-6 bg-transparent" asChild>
-              <a href="#" className="flex items-center gap-3">
+              <a href="linkedin.com/in/emmanuel-peralta-805408322" className="flex items-center gap-3">
                 <Linkedin className="w-5 h-5" />
                 Connect on LinkedIn
               </a>
@@ -325,7 +325,7 @@ export default function Portfolio() {
       <footer className="border-t border-border py-12 px-4 bg-card/50">
         <div className="container mx-auto text-center">
           <p className="text-muted-foreground text-lg">
-            © 2024 Emmanuel Sanchez Peralta. Built with Next.js and deployed on Vercel.
+            © 2025 Emmanuel Sanchez Peralta.
           </p>
         </div>
       </footer>
